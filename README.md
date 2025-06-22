@@ -7,6 +7,7 @@
 - C# Programming language
 - Aseprite - For 2D sprites
 - sfxr - For game sounds
+- FL Studio - For game music
 ---
 ## Admin Panel Credentials
 This project does not require an admin panel or login system.
